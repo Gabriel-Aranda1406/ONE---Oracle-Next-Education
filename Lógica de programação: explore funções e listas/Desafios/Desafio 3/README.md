@@ -1,3 +1,5 @@
+## Instruções
+
 1- Crie uma função que calcule o índice de massa corporal (IMC) de uma pessoa, a partir de sua altura, em metros, e peso, em quilogramas, que serão recebidos como parâmetro.
 
 2- Crie uma função que calcule o valor do fatorial de um número passado como parâmetro.
