@@ -9,7 +9,7 @@ Lista dos 7 cursos:
 
 1-[Lógica de programação: Mergulhe em programação com JavaScript](https://cursos.alura.com.br/certificate/3a3b5d36-ebfd-4c9d-9d4d-76a3bee47ca8)
 
-2- [Lógica de programação: Explore funções e listas](https://cursos.alura.com.br/user/gabriel-aranda1/course/logica-programacao-funcoes-listas/certificate)
+2- [Lógica de programação: Explore funções e listas](https://cursos.alura.com.br/certificate/61b47da9-7ffc-401d-acde-cc85a90da72c)
 
 3- HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
 
