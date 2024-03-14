@@ -11,7 +11,7 @@ Lista dos 7 cursos:
 
 2- [Lógica de programação: Explore funções e listas](https://cursos.alura.com.br/certificate/61b47da9-7ffc-401d-acde-cc85a90da72c)
 
-3- HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
+3- [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://cursos.alura.com.br/certificate/1bde850f-f077-4e92-ba5e-a9015faae9d9)
 
 4- HTML e CSS: Classes, posicionamento e Flexbox
 

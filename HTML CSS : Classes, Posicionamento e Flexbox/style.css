@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}  /* Quarto desafio */
+
+.texto-destaque {
+    color: blue
+}
+
+.titulo-blog {
+    color: blueviolet;
+}
+
+.urgente {
+    color: red;
+}
+
+.boxmodel {
+    text-align: center;
+    margin: 2px;
+    padding: 5px;
+    border: 10px inset black;
+    background-color: lightgray;
+}
