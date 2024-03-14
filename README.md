@@ -3,9 +3,9 @@
 
 Repositório criado para a Formação Iniciante em Programação do programa ONE, com a Alura.
 
-Aqui deixarei os exercícios e desafios feitos por mim em cada um dos 7 cursos da formação.
+Aqui deixarei alguns exercícios e desafios feitos por mim em cada um dos 7 cursos da formação.
 
-Lista dos 7 cursos:
+Lista e certificados dos 7 cursos:
 
 1-[Lógica de programação: Mergulhe em programação com JavaScript](https://cursos.alura.com.br/certificate/3a3b5d36-ebfd-4c9d-9d4d-76a3bee47ca8)
 
