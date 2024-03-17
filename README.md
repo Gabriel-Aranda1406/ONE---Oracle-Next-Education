@@ -13,7 +13,7 @@ Lista e certificados dos 7 cursos:
 
 3- [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://cursos.alura.com.br/certificate/1bde850f-f077-4e92-ba5e-a9015faae9d9)
 
-4- HTML e CSS: Classes, posicionamento e Flexbox
+4- [HTML e CSS: Classes, posicionamento e Flexbox](https://cursos.alura.com.br/certificate/a8a98883-89da-444f-9ce2-93c5ff87024f)
 
 5- HTML e CSS: cabeçalho, footer e variáveis CSS
 
