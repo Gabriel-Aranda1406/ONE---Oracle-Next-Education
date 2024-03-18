@@ -15,7 +15,7 @@ Lista e certificados dos 7 cursos:
 
 4- [HTML e CSS: Classes, posicionamento e Flexbox](https://cursos.alura.com.br/certificate/a8a98883-89da-444f-9ce2-93c5ff87024f)
 
-5- HTML e CSS: cabeçalho, footer e variáveis CSS
+5- [HTML e CSS: cabeçalho, footer e variáveis CSS](https://cursos.alura.com.br/certificate/1e158d2b-bd84-48f4-9072-f60773320117)
 
 6- HTML e CSS: trabalhando com responsividade e publicação de projetos
 
