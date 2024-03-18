@@ -17,7 +17,7 @@ Lista e certificados dos 7 cursos:
 
 5- [HTML e CSS: cabeçalho, footer e variáveis CSS](https://cursos.alura.com.br/certificate/1e158d2b-bd84-48f4-9072-f60773320117)
 
-6- HTML e CSS: trabalhando com responsividade e publicação de projetos
+6- [HTML e CSS: trabalhando com responsividade e publicação de projetos](https://cursos.alura.com.br/certificate/936dcb0e-594b-4ee1-a9dd-61c6f595ff0f)
 
 7- Git e GitHub: compartilhando e colaborando em projetos
 
