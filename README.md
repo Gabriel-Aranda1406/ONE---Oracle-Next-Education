@@ -19,7 +19,7 @@ Lista e certificados dos 7 cursos:
 
 6- [HTML e CSS: trabalhando com responsividade e publicação de projetos](https://cursos.alura.com.br/certificate/936dcb0e-594b-4ee1-a9dd-61c6f595ff0f)
 
-7- Git e GitHub: compartilhando e colaborando em projetos
+7- [Git e GitHub: compartilhando e colaborando em projetos](https://cursos.alura.com.br/certificate/4ee36ce1-ed3e-4ca4-8336-0d481bfc2e0d)
 
 
 ![LOGO](https://www.oracle.com/a/ocom/img/rh03-one-br-logo.png)
